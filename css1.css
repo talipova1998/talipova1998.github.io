@@ -1,0 +1,46 @@
+
+h1,h2{font-family: "Oswald"}
+body {font-family: "Open Sans"}
+h1{
+	display: block;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	text-decoration: none;
+}
+
+p{ 
+	text-align: center;
+	color: #008CBA;
+}
+img{
+	
+	width:15%;
+}
+h2{
+	font-family: serif;
+	text-align: center;
+border-radius: 10px;
+    background: white;
+
+    padding: 20px; 
+    width: 200px;
+    height: 25px;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+}
+li{
+	color: white;
+	text-align: center;
+}
+li a{
+display: block;
+color: white;
+text-align: center;
+text-decoration: none;
+}
